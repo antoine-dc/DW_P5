@@ -1,0 +1,4 @@
+#container_products .row {
+    display: flex;
+    flex-wrap: wrap;
+}
